@@ -8,8 +8,8 @@ on:
   push:
     branches: 
       - release
-    paths:
-      - config.gradle
+#     paths:
+#       - config.gradle
 #   pull_request:
 #     branches: [ master ]
 
